@@ -1,0 +1,22 @@
+.header__foto{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    
+}
+.header{
+
+
+    
+}
+.header__me{
+    display:  flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2px;
+  
+}
+.header__me .header__name{
+    color:#229954;
+}

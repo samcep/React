@@ -1,0 +1,10 @@
+h3{
+    color:#229954;
+}
+
+.skills{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}

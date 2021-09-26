@@ -1,0 +1,24 @@
+.contenedor{
+    margin: 0 auto;
+    width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.seccion__button{
+    margin-top: 10px;
+    outline: none;
+    width: 100px;
+    background-color: #229954;
+    color: #fff;
+    height: 40px;
+    border-radius: 10px;
+    border:none;
+    
+    
+}
+button:hover{
+    background-color:#214e34;
+   cursor: pointer;
+}
