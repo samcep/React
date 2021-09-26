@@ -36,6 +36,7 @@ function App() {
         <div className="contenedor__error">
         <div className="contenedor__ruta">
         <h3> ups, No se encutan la ruta!</h3>
+        <Link to="/"> <button className="seccion__button">Inicio</button></Link>
         </div>
         </div>
 
