@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.909bbf67.chunk.css",
+    "main.js": "/React/static/js/main.f40fb40b.chunk.js",
+    "main.js.map": "/React/static/js/main.f40fb40b.chunk.js.map",
+    "runtime-main.js": "/React/static/js/runtime-main.17d8fcfc.js",
+    "runtime-main.js.map": "/React/static/js/runtime-main.17d8fcfc.js.map",
+    "static/js/2.ea8d037a.chunk.js": "/React/static/js/2.ea8d037a.chunk.js",
+    "static/js/2.ea8d037a.chunk.js.map": "/React/static/js/2.ea8d037a.chunk.js.map",
+    "static/js/3.c00e975e.chunk.js": "/React/static/js/3.c00e975e.chunk.js",
+    "static/js/3.c00e975e.chunk.js.map": "/React/static/js/3.c00e975e.chunk.js.map",
+    "index.html": "/React/index.html",
+    "static/css/main.909bbf67.chunk.css.map": "/React/static/css/main.909bbf67.chunk.css.map",
+    "static/js/2.ea8d037a.chunk.js.LICENSE.txt": "/React/static/js/2.ea8d037a.chunk.js.LICENSE.txt",
+    "static/media/designer.c8c8e472.svg": "/React/static/media/designer.c8c8e472.svg",
+    "static/media/fondo.ac1b01f7.svg": "/React/static/media/fondo.ac1b01f7.svg",
+    "static/media/fondo2.a46a2804.svg": "/React/static/media/fondo2.a46a2804.svg",
+    "static/media/foto.2cdaa390.jpeg": "/React/static/media/foto.2cdaa390.jpeg",
+    "static/media/pay.c0083a5c.svg": "/React/static/media/pay.c0083a5c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17d8fcfc.js",
+    "static/js/2.ea8d037a.chunk.js",
+    "static/css/main.909bbf67.chunk.css",
+    "static/js/main.f40fb40b.chunk.js"
+  ]
+}
